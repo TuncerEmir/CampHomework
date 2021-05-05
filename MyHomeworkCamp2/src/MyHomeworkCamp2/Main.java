@@ -20,6 +20,7 @@ public class Main {
 		
 		instructorManager.createCourse(instructor);
 		studentManager.takeCouse(student);
+
 	}
 
 }
